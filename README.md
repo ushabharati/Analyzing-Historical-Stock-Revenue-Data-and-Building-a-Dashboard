@@ -16,7 +16,7 @@ Successfully extracted Tesla (TSLA) stock data using the yfinance library, inclu
 
 Question 2: Extracting Tesla Revenue Data Using Web Scraping
 
-Extracted Tesla’s quarterly revenue data using web scraping techniques (BeautifulSoup / Selenium) from financial reports available online.
+Extracted Tesla’s quarterly revenue data using web scraping techniques (BeautifulSoup) from financial reports available online.
 
 Question 3: Extracting GameStop Stock Data Using yfinance
 
